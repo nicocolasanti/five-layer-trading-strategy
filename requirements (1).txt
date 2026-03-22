@@ -1,0 +1,7 @@
+# QuantConnect LEAN Engine handles most dependencies natively.
+# The following are used in the ML layer (Layer 3).
+
+xgboost>=1.7.0
+numpy>=1.23.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
